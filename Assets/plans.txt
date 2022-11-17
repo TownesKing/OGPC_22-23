@@ -1,0 +1,5 @@
+jrpg esque game where you are the "DM"
+
+control enemies in rpg combat
+control NPC dialogue
+control shopkeepers
